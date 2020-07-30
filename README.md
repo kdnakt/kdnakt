@@ -1,4 +1,6 @@
-### Hi there 👋
+
+![kdnakt's github stats](https://github-readme-stats.vercel.app/api?username=kdnakt&show_icons=true&theme=tokyonight)
+
 
 <!--
 **kdnakt/kdnakt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
