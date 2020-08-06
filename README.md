@@ -1,6 +1,12 @@
 
 ![kdnakt's github stats](https://github-readme-stats.vercel.app/api?username=kdnakt&show_icons=true&theme=tokyonight)
 
+[![twitter](https://img.shields.io/badge/-Twitter-_.svg?&logo=twitter&logoColor=ffffff&color=1DA1F2)](https://twitter.com/kdnakt)
+
+[![blog](https://img.shields.io/badge/blog-hatenablog-lightgray)](https://kdnakt.hatenablog.com/)
+[![blog](https://img.shields.io/badge/blog-manhole-lightgray)](https://tapa-alcantarilla.blogspot.com/)
+
+
 
 <!--
 **kdnakt/kdnakt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
